@@ -51,6 +51,10 @@
 <a href="https://www.markdownguide.org/"> 
 <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width = "45"/> 
 </a>
+    
+<a href="https://pt-br.reactjs.org/"> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width = "45"/> 
+</a>
 
 <a href="https://www.markdownguide.org/"> 
     <img src="https://freepikpsd.com/media/2019/10/bootstrap-logo-png-1-Transparent-Images-Free.png" width = "40"/> 
@@ -59,6 +63,11 @@
 <a href="https://www.postgresql.org"> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/> 
 </a>
+    
+<a href="https://www.docker.com/"> 
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_logo_icon_170244.png" width = "40"/> 
+</a>
+    
 <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/"> 
     <img src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" width = "50"/> 
 </a>
