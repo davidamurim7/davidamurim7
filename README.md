@@ -1,7 +1,7 @@
 <div align='center'>
 <img src = "https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="50px"> 
 <h2>Hi there, I'm 
-<a href = "https://github.com/davidamurim7"> Antonio David Tavares Amurim</a> ! </h2>
+<a href = "https://github.com/davidamurim7"> David Amurim</a> ! </h2>
 <br>
 
 <h3>Languages and Tools: </h3>
