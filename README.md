@@ -64,7 +64,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
