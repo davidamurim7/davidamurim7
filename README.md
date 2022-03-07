@@ -27,12 +27,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-553c7b.svg?&style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/REACTJS-000.svg?&style=flat&logo=react&logoColor=#5ed3f3)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/LARAVEL-000.svg?&style=flat&logo=laravel&logoColor=red)&nbsp;
+![Laravel](https://img.shields.io/badge/LARAVEL-000.svg?&style=flat&logo=laravel&logoColor=red)&nbsp;\
 ![Python](https://img.shields.io/badge/PYTHON-323330.svg?&style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-eee.svg?&style=flat&logo=java&logoColor=red)&nbsp;
 ![C](https://img.shields.io/badge/C/C++-blue.svg?&style=flat&logo=c&logoColor=white)&nbsp;\
