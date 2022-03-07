@@ -2,7 +2,7 @@
 
 <table align="right">
  <tr><td><a href="#"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="#"><img src="images/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil.
 
 <p align="center">
-  <a target="_blank" href="mailto:davidamurim7@gmail.com?subject=Olá%David"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="mailto:davidamurim7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/david-amurim-65a94b117/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
