@@ -102,6 +102,6 @@
   <table>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=davidamurim7&style=plastic&label=Views">
-<img src="https://badges.pufler.dev/visits/davidamurim7/davidamurim7?color=black&logo=github">
+<img src="https://komarev.com/ghpvc/?username=davidamurim7&style=plastic&label=Views"/>
+<img src="https://badges.pufler.dev/visits/davidamurim7/davidamurim7?color=black&logo=github"/>
 </p>
