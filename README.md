@@ -24,7 +24,7 @@
 
 <hr/>
 
-<details>
+<details open>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
