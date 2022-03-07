@@ -34,7 +34,7 @@
 ![Laravel](https://img.shields.io/badge/LARAVEL-000.svg?&style=flat&logo=laravel&logoColor=red)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-323330.svg?&style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-eee.svg?&style=flat&logo=java&logoColor=red)&nbsp;
-![C]https://img.shields.io/badge/C/C++-blue.svg?&style=flat&logo=c&logoColor=white)&nbsp;\
+![C](https://img.shields.io/badge/C/C++-blue.svg?&style=flat&logo=c&logoColor=white)&nbsp;\
  
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
