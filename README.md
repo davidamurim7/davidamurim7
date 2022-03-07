@@ -17,6 +17,11 @@
   <a target="_blank" href="https://www.linkedin.com/in/david-amurim-65a94b117/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=davidamurim7&style=plastic&label=Views"/>
+<img src="https://badges.pufler.dev/visits/davidamurim7/davidamurim7?color=black&logo=github"/>
+</p>
+
 <hr/>
 
 <details>
@@ -69,39 +74,3 @@
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=davidamurim7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidamurim7&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
-
-<hr/>
-  <h2>Favorite techs</h2>
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <a href="#macropower-tech">
-          <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" width="48" height="48">
-        </a>
-        <br>NodeJS
-      </td>
-      <td align="center" width="96">
-        <a href="#macropower-tech">
-          <img src="/images/svg/react-original.svg" alt="ReactJS" width="48" height="48">
-        </a>
-        <br>ReactJS
-      </td>
-      <td align="center" width="96">
-        <a href="#macropower-tech">
-          <img src="/images/svg/typescript-original.svg" alt="Typescript" width="48" height="48">
-        </a>
-        <br>Typescript
-      </td>
-      <td align="center" width="96">
-        <a href="#macropower-tech">
-          <img src="/images/svg/javascript-original.svg" alt="Javascript" width="48" height="48">
-        </a>
-        <br>Javascript
-      </td>
-    </tr>
-  <table>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=davidamurim7&style=plastic&label=Views"/>
-<img src="https://badges.pufler.dev/visits/davidamurim7/davidamurim7?color=black&logo=github"/>
-</p>
