@@ -7,9 +7,8 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Full Stack Developer at [Blockchain One](https://blockchainone.com.br/)\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Full Stack Developer\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
-&nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2014.\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil.
 
