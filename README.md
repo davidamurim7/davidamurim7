@@ -34,11 +34,11 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/LARAVEL-000.svg?&style=flat&logo=laravel&logoColor=red)&nbsp;\
 ![Python](https://img.shields.io/badge/PYTHON-323330.svg?&style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
-![Colab](https://colab.research.google.com/assets/colab-badge.svg)&nbsp;
+![Colab](https://img.shields.io/badge/COLAB-555.svg?&style=flat&logo=&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-eee.svg?&style=flat&logo=java&logoColor=red)&nbsp;
 ![C](https://img.shields.io/badge/C/C++-blue.svg?&style=flat&logo=c&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/ARDUINO-0e9ca1.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;\
+![Arduino](https://img.shields.io/badge/ARDUINO-0e9ca1.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;\
+![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
  
