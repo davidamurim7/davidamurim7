@@ -34,27 +34,31 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/LARAVEL-000.svg?&style=flat&logo=laravel&logoColor=red)&nbsp;\
 ![Python](https://img.shields.io/badge/PYTHON-323330.svg?&style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
-![Colab](https://img.shields.io/badge/COLAB-555.svg?&style=flat&logo=&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-eee.svg?&style=flat&logo=java&logoColor=red)&nbsp;
 ![C](https://img.shields.io/badge/C/C++-blue.svg?&style=flat&logo=c&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/ARDUINO-0e9ca1.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;\
-![BEAGLEBONE](https://img.shields.io/badge/BEAGLEBONE-brown.svg?&style=flat&logo=&logoColor=%23F7DF1E)&nbsp;
 ![ASM](https://img.shields.io/badge/ASM-2d51a8.svg?&style=flat&logo=&logoColor=%23F7DF1E)&nbsp;
 ![VHDL](https://img.shields.io/badge/VHDL-333.svg?&style=flat&logo=&logoColor=%23F7DF1E)&nbsp;
+ 
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;\
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+ 
+![Arduino](https://img.shields.io/badge/ARDUINO-0e9ca1.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
+![BEAGLEBONE](https://img.shields.io/badge/BEAGLEBONE-brown.svg?&style=flat&logo=&logoColor=%23F7DF1E)&nbsp;
+![ESP](https://img.shields.io/badge/ESP-000.svg?&style=flat&logo=&logoColor=%23F7DF1E)&nbsp;
+![ZYBO](https://img.shields.io/badge/ZYBO-339933.svg?&style=flat&logo=&logoColor=%23F7DF1E)&nbsp;
  
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![OVERLEAF](https://img.shields.io/badge/OVERLEAF-46a247.svg?&style=flat&logo=overleaf&logoColor=white)&nbsp;
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;\
+![OVERLEAF](https://img.shields.io/badge/OVERLEAF-46a247.svg?&style=flat&logo=overleaf&logoColor=white)&nbsp;\
+![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;\
+![Colab](https://img.shields.io/badge/COLAB-555.svg?&style=flat&logo=&logoColor=%23F7DF1E)&nbsp;
 
 </details>
 
