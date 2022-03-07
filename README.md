@@ -1,108 +1,108 @@
-<div align='center'>
-<img src = "https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="50px"> 
-<h2>Hi there, I'm 
-<a href = "https://github.com/davidamurim7"> David Amurim</a> ! </h2>
-<br>
+<img src="images/svg/header_en.svg"></img>
 
-<h3>Languages and Tools: </h3>
-<br>
+<table align="right">
+ <tr><td><a href="#"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+</table>
 
-<a href="https://www.arduino.cc/">
-    <img width="45px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
-</a>
+### :space_invader: &nbsp;About Me
 
-<a href="https://beagleboard.org/bone">
-    <img  width="35px" src="https://www.pinclipart.com/picdir/big/555-5559579_beaglebone-beagleboard-org-logo-clipart.png" />
-</a>
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Full Stack Developer at [Blockchain One](https://blockchainone.com.br/)\
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
+&nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020 with 1+ years of experience with software development.\
+&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil.
 
-<a href="https://www.learn-c.org/">
-    <img  width="50px" src="https://images-ext-2.discordapp.net/external/AoptxKavQTqxmap0_la-1ydZEAUNPvBry3ULYBig4Vs/https/cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-</a>
+<p align="center">
+  <a target="_blank" href="mailto:davidamurim7@gmail.com?subject=Olá%David"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/david-amurim-65a94b117/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<a href="https://www.learncpp.com/">
-    <img  width="50px" src="https://images-ext-1.discordapp.net/external/yQO4PyPmTHQIueL-A3hXd3_URhgYbCQNbmQNy3yS8XI/https/images-na.ssl-images-amazon.com/images/I/51NyeIYt71L.png" />
-</a>
-<a href="https://www.java.com/pt-BR/">
-     <img    src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width = "40"/> 
-</a>
+<hr/>
 
-<a href="https://pypi.org/project/PyQt5/">
-     <img src="https://miro.medium.com/max/4000/1*Rbb2OgXa8osy9NkaLE3d_g.png" width = "40"/>
-</a>
+<details>
+  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <br/>
 
-<a href="https://www.python.org/">
-     <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width = "40"/>
-</a>
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)\
+![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
+![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
-<a href="https://git-scm.com">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width = "40"/> 
-</a>
-<a href="https://nodejs.org/en/"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width = "40"/> </a>
-    
-<a href="https://www.codecademy.com/learn/learn-html"> 
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width = "40"/>
-</a>
+</details>
 
-<a href="https://www.markdownguide.org/"> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png" width = "45"/> 
-</a>
+<details>
+  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <br/>
 
-<a href="https://www.markdownguide.org/"> 
-<img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width = "45"/> 
-</a>
-    
-<a href="https://pt-br.reactjs.org/"> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width = "45"/> 
-</a>
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
+![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 
-<a href="https://www.markdownguide.org/"> 
-    <img src="https://freepikpsd.com/media/2019/10/bootstrap-logo-png-1-Transparent-Images-Free.png" width = "40"/> 
-</a>
+</details>
 
-<a href="https://www.postgresql.org"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/> 
-</a>
-    
-<a href="https://www.docker.com/"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_logo_icon_170244.png" width = "40"/> 
-</a>
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=davidamurim7&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=davidamurim7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidamurim7&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
 
-<a href="https://laravel.com/"> 
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/laravel_icon_130892.png" width = "40"/> 
-</a>
-    
-<a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/"> 
-    <img src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" width = "50"/> 
-</a>
+<hr/>
+  <h2>Favorite techs</h2>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" width="48" height="48">
+        </a>
+        <br>NodeJS
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="/images/svg/react-original.svg" alt="ReactJS" width="48" height="48">
+        </a>
+        <br>ReactJS
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="/images/svg/typescript-original.svg" alt="Typescript" width="48" height="48">
+        </a>
+        <br>Typescript
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="/images/svg/javascript-original.svg" alt="Javascript" width="48" height="48">
+        </a>
+        <br>Javascript
+      </td>
+    </tr>
+  <table>
 
-<a href="https://www.asm-smt.com/en/"> 
-    <img src="https://images-ext-1.discordapp.net/external/H7-IGnW58MToNVzgqtQhajuIoe3TGfd-mFwAPoioaxk/http/www.byteanalysis.com.br/assets/images/25a85d9e5057430d82273a3c75e73014.png?width=680&height=676" width = "45"/> 
-</a>
-
-<a href="https://www.overleaf.com/project"> 
-    <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width = "45"/> 
-</a>
-
-<a href="https://code.visualstudio.com"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width = "40"/> 
-</a>
-<br><br>
-
-<img src ="https://github-readme-stats.vercel.app/api?username=davidamurim7&show_icons=true&title_color=cd200c&icon_color=cd200c&text_color=151515&bg_color=f5f5f5" />
-<br><br>
-<img src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=davidamurim7&layout=compact&show_icons=true&title_color=cd200c&icon_color=25cce9&text_color=151515&bg_color=f5f5f5" />
-<br><br>
-
-<h3>Social Media:</h3>
-<br>
-
- <a href="https://mail.google.com/mail/u/0/?fs=1&to=davidamurim7@gmail.com&tf=cm">
-    <img src="https://img.shields.io/badge/gmail -%23E4402F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
-</a>&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/david-tavares-65a94b117/">
-    <img src="https://img.shields.io/badge/likedin -%2300899F.svg?&style=for-the-badge&logo=likedin&logoColor=white" />        
-</a>&nbsp;&nbsp;
-<br><hr>
-</div>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=davidamurim7&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/davidamurim7/davidamurim7?color=black&logo=github" />
+</p>
